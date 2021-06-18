@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://leerob.io/about</loc>
+  </url>
+
+  <url>
+    <loc>https://leerob.io/blog</loc>
+  </url>
+
+  <url>
+    <loc>https://leerob.io/dashboard</loc>
+  </url>
+
+  <url>
+    <loc>https://leerob.io</loc>
+  </url>
+
+  <url>
+    <loc>https://leerob.io/resourcelist</loc>
+  </url>
+
+  <url>
+    <loc>https://leerob.io/tweets</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://leerob.io/blog/p-vs-np,logic-and-philosophy-behind-computation</loc
+    >
+  </url>
+
+  <url>
+    <loc>https://leerob.io/snippets/search</loc>
+  </url>
+
+  <url>
+    <loc>https://leerob.io/snippets/slack</loc>
+  </url>
+</urlset>

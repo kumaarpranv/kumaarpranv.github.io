@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lee Robinson]]></title>
+        <description><![CDATA[Lee Robinson]]></description>
+        <link>https://leerob.io</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 18 Jun 2021 20:58:35 GMT</lastBuildDate>
+        <atom:link href="https://leerob.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[P vs NP, Logic and Philosophy Behind Computation]]></title>
+            <description><![CDATA[Intuition and foundational philosophy of computation]]></description>
+            <link>https://leerob.io/blog/p-vs-np,logic-and-philosophy-behind-computation</link>
+            <guid isPermaLink="true">https://leerob.io/blog/p-vs-np,logic-and-philosophy-behind-computation</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
