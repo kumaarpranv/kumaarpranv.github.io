@@ -1,7 +1,7 @@
 module.exports = {
 
   basePath: '',
-  assetPrefix: '/',
+  assetPrefix: '',
   future: {
     webpack5: true,
     strictPostcssConfiguration: true
