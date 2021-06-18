@@ -1,5 +1,4 @@
 import * as Fathom from 'fathom-client';
-import Image from 'next/image';
 
 
 const trackGoal = (title) => {
@@ -34,7 +33,7 @@ export default function ProjectCard({ title, description, href, icon }) {
               </g>
             </svg> */}
 
-            <Image className="h-20 w-8 min-w-lg text-gray-900 dark:text-gray-100" src="/billion.png" alt="me" width="100" height="80" />
+            <img className="h-20 w-8 min-w-lg text-gray-900 dark:text-gray-100" src="/billion.png" alt="me" width="100" height="80" />
           </div>
         )}
         {icon == 'nextjs' && (

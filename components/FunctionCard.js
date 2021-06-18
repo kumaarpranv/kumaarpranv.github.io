@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import Image from 'next/image';
 
 export default function FunctionCard({
   title,
@@ -14,7 +13,7 @@ export default function FunctionCard({
         className="border border-grey-200 dark:border-gray-900 rounded p-4 w-full"
         {...rest}
       >
-        <Image
+        <img
           alt={title}
           height={32}
           width={32}

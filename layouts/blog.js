@@ -1,4 +1,3 @@
-import Image from 'next/image';
 import { parseISO, format } from 'date-fns';
 
 import Container from '@/components/Container';
@@ -24,7 +23,7 @@ export default function BlogLayout({ children, frontMatter }) {
         </h1>
         <div className="flex flex-col md:flex-row justify-between items-start md:items-center w-full mt-2">
           <div className="flex items-center">
-            <Image
+            <img
               alt="Pranav Kumar"
               height={24}
               width={24}

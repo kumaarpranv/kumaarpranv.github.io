@@ -2,7 +2,6 @@ import Link from 'next/link';
 
 import Container from '../components/Container';
 import CertificateCard from '../components/CertificateCard';
-import Image from 'next/image';
 import { SocialIcon } from 'react-social-icons';
 
 const ExternalLink = ({ href, children }) => (
@@ -30,6 +29,7 @@ export default function Home() {
             <a>learn about me.</a>
           </Link>
         </h2>
+
 
         <h2 className="prose text-gray-600 dark:text-gray-400 mb-8">
           Here's my <ExternalLink href="https://drive.google.com/file/d/1ifT-2lH4p4xNdDQVrHCl6YurdmXmpvTT/view?usp=sharing">CV</ExternalLink>

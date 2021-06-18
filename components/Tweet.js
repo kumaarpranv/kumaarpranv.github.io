@@ -1,4 +1,3 @@
-import Image from 'next/image';
 import { format } from 'date-fns';
 
 /**
@@ -36,7 +35,7 @@ export default function Tweet({
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Image
+          <img
             alt={author.username}
             height={48}
             width={48}
@@ -102,7 +101,7 @@ export default function Tweet({
           }
         >
           {media.map((m) => (
-            <Image
+            <img
               key={m.media_key}
               alt={text}
               height={m.height}

@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import Image from 'next/image';
 
 import Step from '@/components/Step';
 import ImageWithTheme from '@/components/ImageWithTheme';
@@ -20,7 +19,7 @@ const CustomLink = (props) => {
 };
 
 const MDXComponents = {
-  Image,
+  
   ImageWithTheme,
   a: CustomLink,
   Step
