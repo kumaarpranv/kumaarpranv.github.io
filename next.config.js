@@ -1,6 +1,6 @@
 module.exports = {
 
-  basePath: '/',
+  basePath: '',
   assetPrefix: '/_next/',
   future: {
     webpack5: true,
