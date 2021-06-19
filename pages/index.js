@@ -38,7 +38,7 @@ export default function Home() {
         <SocialIcon url="https://linkedin.com/in/kumaarpranv" />
         <SocialIcon url="https://github.com/kumaarpranv" />
         <SocialIcon url="https://mail.google.com/mail/?view=cm&fs=1&to=kumaarpranv@gmail.com&su=CAREER" />
-        <SocialIcon url="https://twitter.com/amateurtheorist" />
+        <SocialIcon url="https://instagram.com/_kumaarpranv" />
         </div>
 
         <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white">
