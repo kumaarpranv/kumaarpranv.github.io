@@ -12,10 +12,10 @@ export default function CertificateCard({ title, href, image }) {
       <div className="flex items-center border border-gray-200 dark:border-gray-800 rounded p-4">
         <img className="h-20 w-8 min-w-lg text-gray-900 dark:text-gray-100" 
         style={{
-          width: "500px",
-          height: "300px",
-          maxHeight: "300px",
-          maxWidth: "500px",
+          width: "550px",
+          height: "350px",
+          maxHeight: "350px",
+          maxWidth: "550px",
         }}
         src={"/certificates/"+image} alt="me" />
     </div>
