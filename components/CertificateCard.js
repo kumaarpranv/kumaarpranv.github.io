@@ -12,7 +12,7 @@ export default function CertificateCard({ title, href, image }) {
       <div className="flex items-center border border-gray-200 dark:border-gray-800 rounded p-4">
         <img className="h-20 w-8 min-w-lg text-gray-900 dark:text-gray-100" 
         style={{
-          width: "600px",
+          width: "800px",
           height: "500px",
           maxHeight: "600px",
           maxWidth: "500px",
