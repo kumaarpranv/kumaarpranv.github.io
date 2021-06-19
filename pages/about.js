@@ -68,8 +68,8 @@ export default function About() {
           </p>
           <p>
             With the help of Internet, I got into machine learning and web development in my 2nd year of undergraduation that helped me in dreaming bigger than 
-            I could before. using codevita, I got digital profile from Tata consultancy services. through Internship I got mapped to prestigious tcs innovation labs.
-            after the internship with tcs innovation labs, I got a chance to work as intern at Vmind technologies Inc. I joined back TCS mapped to innovation labs, but
+            I could before. using codevita, I got digital profile from Tata Consultancy Services. through Internship I got mapped to prestigious tcs innovation labs.
+            after the internship with TCS innovation labs, I got a chance to work as intern at Vmind technologies Inc. I joined back TCS mapped to innovation labs, but
             It made me realize that I loved learning, researching than development. that made me exit the company joining VMind as a Research engineer.
           </p>
           <p>  

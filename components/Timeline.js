@@ -60,8 +60,8 @@ const FullTimeline = () => (
 
       <Step title="My another mini-project Hexapod robot">
       As the semester still remains, I told my HOD that I would do another mini project with team I choose. I wanted to do something cool in robotics, so I picked building a Hexapod robot that could be wirelessly controlled.
-      the task was a bit daunting after working on it, as it required machine design much than coding. however we completed it, using forward kinematics, designed a three gait motion algorithm and the robot used raspberry pi and adafruit servo driver to manage the movement. used flask to create a webapp interface for the robot,
-      through which it could be controlled via any computer or phone connecting to the same wireless network.
+      the task was a bit daunting after working on it, as it required machine design much than coding. however we completed it, using forward kinematics, designed a three gait motion algorithm and the robot used raspberry pi
+       and adafruit servo driver to manage the movement. used flask to create a webapp interface for the robot, through which it could be controlled via any computer or phone connecting to the same wireless network.
       </Step>
     
     </ul>
@@ -70,19 +70,19 @@ const FullTimeline = () => (
     <ul>
       <Step title="Joined Chegg.com as freelance Expert Q&A answerer">
         I wanted to make myself useful and Chegg helped me in providing pocket money, in addition to that it made me realize different subjects in CS at different levels from highschool to graduate. It's also satisfying
-        to help students across the world.  
+        to help students across the world.
       </Step>
 
       <Step title="Created College's student crediting system">
-       I worked with our HOD to develop a student crediting system with both web and mobile interfaces. It's used by lecturers credit students by their hallway manners.  
+       I worked with our HOD to develop a student crediting system with both web and mobile interfaces. It's used by lecturers credit students by their hallway manners. 
       </Step>
     </ul>
     <Divider />
     <Year>2016</Year>
     <ul>
       <Step title="Joined Visvodaya Engineering College">
-        I was hesitant to join Engineering as I was just average at my math that time ( got 89% in my 12th, 2 off 5 subjects we have per year is from math ). But my fascination with computers and deception
-         that engineering doesn't have much math. pushed me in pursuing Computer science and engineering at Visvodaya engineering college, a local engineering college with reputation. 
+        I was hesitant to join engineering as I was just average at my math that time ( got 89% in my 12th, 2 off 5 subjects we have per year is from math ). But my fascination with computers and deception
+         that engineering doesn't have much math. pushed me in pursuing computer science and engineering at visvodaya engineering college, a local engineering college with reputation. 
       </Step>
     </ul>
     <Divider />
@@ -105,7 +105,7 @@ export default function Timeline() {
       <Year>2021</Year>
       <ul>
       <Step title="Joined VMind Technologies Inc.">
-      I realized I like learning theory, researching more than engineering. So I joined Vmind back as Research Engineer.
+      I realized I like learning theory, researching more than engineering. I joined Vmind back as Research Engineer.
       </Step>
       </ul>
       <Divider/>
@@ -139,10 +139,10 @@ export default function Timeline() {
           I joined as Systems Engineer at TCS, mapped to Innovation labs. Here,
           <ol>
           <li>
-          I Worked in development and maintenance of a bill payments module backend services with tools like springboot, hibernate, postgresql, springbatch developed in a scalable microservices architecture in Azure Environment.
+          I worked in development and maintenance of a bill payments module backend services with tools like springboot, hibernate, postgresql, springbatch developed in a scalable microservices architecture in Azure Environment.
           </li>
           <li>
-            I Worked in development of a retrieval-based chatbot using MXNet, that uses a novel LSTM architecture built ontop of BERT for classifying intent of the customer and send predetermined responses according to the intent.
+            I worked in development of a retrieval-based chatbot using MXNet, that uses a novel LSTM architecture built ontop of BERT for classifying intent of the customer and send predetermined responses according to the intent.
           </li>
           </ol>
         </Step>

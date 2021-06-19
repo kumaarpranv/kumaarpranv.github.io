@@ -1,6 +1,6 @@
 # kumaarpranv.github.io
 
-My portfolio website built on top of [this repo](https://github.com/leerob/leerob.io.git)
+My portfolio website is built from [this repo](https://github.com/leerob/leerob.io.git)
 ## Running Locally
 
 
