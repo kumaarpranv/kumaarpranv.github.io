@@ -17,7 +17,7 @@ export default function CertificateCard({ title, href, image }) {
           maxHeight: "400px",
           maxWidth: "550px",
         }}
-        src={"/certificates/"+image} alt="me" />
+        src={"/certificates/"+image} alt={title} />
     </div>
     </a>
   );
