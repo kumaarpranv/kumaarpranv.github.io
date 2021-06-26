@@ -22,7 +22,7 @@ export default function Home() {
         <h1 className="font-bold text-3xl md:text-5xl tracking-tight mb-4 text-black dark:text-white">
           Hey, I’m Pranav Kumar
         </h1>
-        <h2 className="prose text-gray-600 dark:text-gray-400 mb-4">
+        <h2 className="prose text-gray-600 dark:text-gray-400 mb-16">
           I'm an ML Engineer, Developer and Aspiring Researcher. I'm currently working as Research Engineer <ExternalLink href="https://www.vmind.io">@VMind</ExternalLink> technologies Inc.
           –&nbsp;
           <Link href="/about">
@@ -41,7 +41,7 @@ export default function Home() {
         <SocialIcon url="https://instagram.com/_kumaarpranv" />
         </div>
 
-        <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white">
+        <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white">
         Selected Certifications
         </h3>
         
