@@ -52,17 +52,7 @@ const FullTimeline = () => (
       <Step title="Got 1st in college's debugging competition, 3rd in web design">
       I used to think I'm bad at time bound coding, but this competition helped me in realizing I can do good. 
       </Step>
-
-      <Step title="My First Collaborative mini-project Automating powerstrip with raspberry pi">
-      We were asked to do a mini project in this semester preferably in IOT or robotics. I picked IOT and ideated over a powerstrip that could be operated by voice. from anywhere in the world.
-      with me being the most contributed, designed a system for this using firebase, android, raspberry pi, electrical principles ( still remember the shocks ). we made the automated powerstrip in two weeks.
-      </Step>
-
-      <Step title="My another mini-project Hexapod robot">
-      As the semester still remains, I told my HOD that I would do another mini project with team I choose. I wanted to do something cool in robotics, so I picked building a Hexapod robot that could be wirelessly controlled.
-      the task was a bit daunting after working on it, as it required machine design much than coding. however we completed it, using forward kinematics, designed a three gait motion algorithm and the robot used raspberry pi
-       and adafruit servo driver to manage the movement. used flask to create a webapp interface for the robot, through which it could be controlled via any computer or phone connecting to the same wireless network.
-      </Step>
+      
     
     </ul>
     <Divider />
@@ -151,6 +141,17 @@ export default function Timeline() {
 
       <Year>2019</Year>
     <ul>
+    <Step title="My First Collaborative mini-project Automating powerstrip with raspberry pi">
+      We were asked to do a mini project in this semester preferably in IOT or robotics. I picked IOT and ideated over a powerstrip that could be operated by voice. from anywhere in the world.
+      with me being the most contributed, designed a system for this using firebase, android, raspberry pi, electrical principles ( still remember the shocks ). we made the automated powerstrip in two weeks.
+      </Step>
+
+      <Step title="My another mini-project Hexapod robot">
+      As the semester still remains, I told my HOD that I would do another mini project with team I choose. I wanted to do something cool in robotics, so I picked building a Hexapod robot that could be wirelessly controlled.
+      the task was a bit daunting after working on it, as it required machine design much than coding. however we completed it, using forward kinematics, designed a three gait motion algorithm and the robot used raspberry pi
+       and adafruit servo driver to manage the movement. used flask to create a webapp interface for the robot, through which it could be controlled via any computer or phone connecting to the same wireless network.
+      </Step>
+      
       <Step title="Speedrunning DSA & Interview prep">
         I got into competitive coding, algorithm design which I neglected till then and prepped for the interviews.
       </Step>
