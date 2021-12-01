@@ -55,8 +55,8 @@ export default function About() {
         </h1>
         <div className="mb-8 prose leading-6 text-gray-600 dark:text-gray-400">
           <p>
-            Hey, I’m Pranav. I'm an ML Engineer, Developer and Aspiring Researcher.
-            &nbsp;currently I'm working <ExternalLink href="https://www.vmind.io">@VMind</ExternalLink> technologies Inc as Research Engineer. 
+            Hey, I’m Pranav. I'm a Software engineer with a lot of interest in CS theory and ML.
+            &nbsp;currently I'm working <ExternalLink href="https://sentieo.com">@Sentieo</ExternalLink> as Software Engineer. 
           </p>
           <p>
             I’m passionate about theoretical computer science, machine reasoning, system design and hacky-development to get things done!&nbsp;
@@ -69,8 +69,8 @@ export default function About() {
           <p>
             With the help of Internet, I got into machine learning and web development in my 2nd year of undergraduation that helped me in dreaming bigger than 
             I could before. using codevita, I got digital profile from Tata Consultancy Services. through Internship I got mapped to prestigious tcs innovation labs.
-            after the internship with TCS innovation labs, I got a chance to work as intern at Vmind technologies Inc. I joined back TCS mapped to innovation labs, but
-            It made me realize that I loved learning, researching than development. that made me exit the company joining VMind as a Research engineer.
+            after the internship with TCS innovation labs, I got a chance to work as intern at Vmind technologies Inc. I joined back TCS mapped to innovation labs as Systems engineer, I left the job to
+            get into research and joined Vmind back. Due to unforeseen consequences, I had to resign the company and joined Sentieo as a Software engineer.
           </p>
           <p>  
             In my free time, I would be reading some math/CS book, watching some anime, playing some video game.
@@ -89,6 +89,13 @@ export default function About() {
           STOC 2021 is part of a 5-day TheoryFest with an expanded program of STOC papers, poster sessions, and a broad cross-section of invited talks, workshops, and tutorials. 
         </Talk>
         
+       <Talk
+          title="ICML 2021: International Conference on Machine Learning"
+          link="https://icml.cc/Conferences/2021"
+        >
+        A leading international conference held every year on Machine learning. On 2021, the schedule was mostly dedicated to Workshops, Tutorials of different ML approaches for practitioners directed towards industry.
+      </Talk>
+      
       </div>
     </Container>
   );

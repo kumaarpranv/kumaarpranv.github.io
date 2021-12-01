@@ -95,7 +95,13 @@ export default function Timeline() {
       <Year>2021</Year>
       <ul>
       <Step title="Joined VMind Technologies Inc.">
-      I realized I like learning theory, researching more than engineering. I joined Vmind back as Research Engineer.
+          I wanted to learn more about research and understand computation better. I joined Vmind back as Research Engineer. I worked there mostly reading on computational complexity theory, quantum computing, Algebra and "becoming mathematically mature" (as professors call it).
+          Other times the tasks included working with React.js, Redux, Konvajs, Typescript, MongoDB, Python, AWS Elastic beanstalk, S3 to build a causal graph engine and hacking-out prototypes with Python, React.js and Amplify. 
+      </Step>
+      </ul>
+      <ul>
+      <Step title="Joined Sentieo">
+      I had to resign Vmind, due to unforeseen consequences. But I got very happy to join Sentieo, as a Software engineer.
       </Step>
       </ul>
       <Divider/>
@@ -132,7 +138,7 @@ export default function Timeline() {
           I worked in development and maintenance of a bill payments module backend services with tools like springboot, hibernate, postgresql, springbatch developed in a scalable microservices architecture in Azure Environment.
           </li>
           <li>
-            I worked in development of a retrieval-based chatbot using MXNet, that uses a novel LSTM architecture built ontop of BERT for classifying intent of the customer and send predetermined responses according to the intent.
+            I worked in development of a retrieval-based chatbot using MXNet, that uses a novel LSTM architecture built ontop of BERT embeddings for classifying intent of the customer and send predetermined responses according to the intent.
           </li>
           </ol>
         </Step>

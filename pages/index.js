@@ -23,7 +23,7 @@ export default function Home() {
           Hey, I’m Pranav Kumar
         </h1>
         <h2 className="prose text-gray-600 dark:text-gray-400 mb-16">
-          I'm an ML Engineer, Developer and Aspiring Researcher. I'm currently working as Research Engineer <ExternalLink href="https://www.vmind.io">@VMind</ExternalLink> technologies Inc.
+          I'm a Software Engineer, figuring out Theory-A and systems programming on free time. I'm currently working as Software Engineer <ExternalLink href="https://sentieo.com">@Sentieo</ExternalLink>
           –&nbsp;
           <Link href="/about">
             <a>learn about me.</a>
