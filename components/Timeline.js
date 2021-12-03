@@ -115,7 +115,6 @@ export default function Timeline() {
           V1  using  keras  with  augmentation techniques to recognise profiles too with good accuracy.</li>
           <li>I assisted on a project of gap detection between products in retail racks by applying mask-rcnn with tensorflow.</li>
           </ol>
-          Lab's owner got impressed with me and offered to map me to the lab after I join TCS.
         </Step>
 
         <Step title="Interned at Vmind technologies Inc.">
@@ -132,7 +131,7 @@ export default function Timeline() {
         </Step>
 
         <Step title="Joined TCS as Systems Engineer">
-          I joined as Systems Engineer at TCS, mapped to Innovation labs. Here,
+          I joined as Systems Engineer at TCS. Here,
           <ol>
           <li>
           I worked in development and maintenance of a bill payments module backend services with tools like springboot, hibernate, postgresql, springbatch developed in a scalable microservices architecture in Azure Environment.
