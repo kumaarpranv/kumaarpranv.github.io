@@ -32,7 +32,7 @@ export default function Home() {
 
 
         <h2 className="prose text-gray-600 dark:text-gray-400 mb-8">
-          Here's my <ExternalLink href="https://drive.google.com/file/d/1yvgld6HZEu0KY0lkE_ie3ymRvOvgvWgM/view?usp=sharing">CV</ExternalLink>
+          Here's my <ExternalLink href="https://drive.google.com/drive/folders/1nBbqfAArh3zpG41SKSMML20VOYFlc3Hs?usp=share_link">CV</ExternalLink>
         </h2>
         <div className="flex flex-row items-center gap-4 mb-16">
         <SocialIcon url="https://linkedin.com/in/kumaarpranv" />
